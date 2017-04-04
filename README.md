@@ -1,4 +1,4 @@
-# algorithmStudyDayByDay
+# Algorithm Study Day By Day
 Algorithm study using python day by day
 
 

@@ -12,7 +12,7 @@ So, I will focus [past contest of Google Code Jam](https://code.google.com/codej
 
 
 ### [Day 2](https://github.com/Eunsol-Lee/algorithmStudyDayByDay/tree/master/day1_GoogleCodeJam2016_Round1A) April 5, 2017
-[Google Cod Jam 2016 Round 1A](https://code.google.com/codejam/contest/6254486/dashboard) solved using python
+[Google Cod Jam 2016 Round 1A](https://code.google.com/codejam/contest/4304486/dashboard) solved using python
 I also upload [c++ code](https://github.com/Eunsol-Lee/algorithmStudyDayByDay/tree/master/day1_GoogleCodeJam2016_Round1A/2016%20Live%20Coding%20using%20CPP%20by%20Eunsol) when I competed last year. It is fun to compare between c++ code and python code.
 
 ### [Day 1](https://github.com/Eunsol-Lee/algorithmStudyDayByDay/tree/master/day1_GoogleCodeJam2016_QuallificationRound) April 4, 2017

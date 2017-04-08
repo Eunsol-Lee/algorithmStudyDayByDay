@@ -7,9 +7,15 @@ And I will participate in Google Code Jam 2017.
 So, I will focus [past contest of Google Code Jam](https://code.google.com/codejam/past-contests).
 
 ## Future work
-+ [Google Code Jam 2016 Round 1B](https://code.google.com/codejam/contest/4304486/dashboard)
++ [Google Code Jam 2016 Round 1B](https://code.google.com/codejam/contest/11254486/dashboard)
 + Graph theory study (find the connected components using DFS and other ways and find the longest chains)
 
+### [Day 4](https://github.com/Eunsol-Lee/algorithmStudyDayByDay/tree/master/day2_GoogleCodeJam2016_Round1A) April 7, 2017
+[Google Cod Jam 2016 Round 1B](https://code.google.com/codejam/contest/11254486/dashboard) solved using python
+I also studied basic of linear algebra due to [problem A. Getting the Digits](https://code.google.com/codejam/contest/11254486/dashboard). I was very impressed about linear algebra solution that I saw in [Contest Analysis](https://code.google.com/codejam/contest/11254486/dashboard#s=a&a=0).
+
+### Day 3 April 6, 2017
+Rest
 
 ### [Day 2](https://github.com/Eunsol-Lee/algorithmStudyDayByDay/tree/master/day2_GoogleCodeJam2016_Round1A) April 5, 2017
 [Google Cod Jam 2016 Round 1A](https://code.google.com/codejam/contest/4304486/dashboard) solved using python

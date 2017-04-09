@@ -17,7 +17,7 @@ I get 50 points on qualification round.
 First problem [Oversized Pancake Flipper](https://code.google.com/codejam/contest/3264486/dashboard) was easy. I used greedy algorithm. Whenever there is a '-', I flipped. But I think I could ameliorate my solution if I just count changing point.
 Second problem [Tidy Numbers](https://code.google.com/codejam/contest/3264486/dashboard#s=p1) was easy. But I failed two times on small input. I used wrong algorithm at first. I realized the problem during challenging, I fixed it.
 Third problem [Bathroom Stalls](https://code.google.com/codejam/contest/3264486/dashboard#s=p2) was not easy. I used mathematical solution, but official solution looked more simple. And I got 'incorrect' judgement on large input. That was because of python division logic. Using '//' instead of '/' had solved my problem.
-I couldn't solve last solution during competition. After end of the competition, I saw contest analysis, and solved. It is greedy but very interesting and hard.
+I couldn't solve last problem [Fashion Show](https://code.google.com/codejam/contest/3264486/dashboard#s=p3) during competition. After end of the competition, I saw contest analysis, and solved. It is greedy but very interesting and hard.
 
 ### Day 5 April 8, 2017
 Rest

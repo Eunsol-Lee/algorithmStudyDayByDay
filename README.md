@@ -7,8 +7,14 @@ And I will participate in Google Code Jam 2017.
 So, I will focus [past contest of Google Code Jam](https://code.google.com/codejam/past-contests).
 
 ## Future work
-+ [Google Code Jam 2016 Round 1B](https://code.google.com/codejam/contest/11254486/dashboard)
++ [Google Code Jam 2016 Round 1C](https://code.google.com/codejam/contest/11254486/dashboard)
 + Graph theory study (find the connected components using DFS and other ways and find the longest chains)
++ Graph algorithm such as Ford-Fulkerson algorithm, Hopcroft-Karp algorithm
+
+### [Day 6]() April 9, 2017
+
+### Day 5 April 8, 2017
+Rest
 
 ### [Day 4](https://github.com/Eunsol-Lee/algorithmStudyDayByDay/tree/master/day2_GoogleCodeJam2016_Round1A) April 7, 2017
 [Google Cod Jam 2016 Round 1B](https://code.google.com/codejam/contest/11254486/dashboard) solved using python
